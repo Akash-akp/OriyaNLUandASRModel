@@ -25,6 +25,6 @@
   ```
 - Use this command to activate rasa chatbot on web
   ```
-  rasa run -m model --enable-api --cors "*"
+  rasa run -m models --enable-api --cors "*"
   ```
 - Open the index.html file
